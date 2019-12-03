@@ -1,0 +1,7 @@
+C:\Users\davidr\source\repos\TestThreads\SampleThreadManager\bin\Release\SampleThreadManager.exe.config
+C:\Users\davidr\source\repos\TestThreads\SampleThreadManager\bin\Release\SampleThreadManager.exe
+C:\Users\davidr\source\repos\TestThreads\SampleThreadManager\bin\Release\SampleThreadManager.pdb
+C:\Users\davidr\source\repos\TestThreads\SampleThreadManager\obj\Release\SampleThreadManager.csprojAssemblyReference.cache
+C:\Users\davidr\source\repos\TestThreads\SampleThreadManager\obj\Release\SampleThreadManager.csproj.CoreCompileInputs.cache
+C:\Users\davidr\source\repos\TestThreads\SampleThreadManager\obj\Release\SampleThreadManager.exe
+C:\Users\davidr\source\repos\TestThreads\SampleThreadManager\obj\Release\SampleThreadManager.pdb
